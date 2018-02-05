@@ -1,7 +1,7 @@
 **项目说明** 
 - 采用SpringBoot、MyBatis、Shiro框架
 <br>
-<br> 
+
  **技术选型：** 
 - 核心框架：Spring Boot 1.5
 - 安全框架：Apache Shiro 1.3
